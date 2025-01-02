@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-    <a href="">
+    <a href="https://ebac-projeto-02-flax.vercel.app/">
         <img src="images/calculadoraDeMedias.png" alt="Calculadora de médias"> </img>
     </a>
 </p>
